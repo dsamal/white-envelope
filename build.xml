@@ -1,0 +1,5 @@
+<?xml version ="1.0"?>
+<project name ="white-envelope" default="compile">
+
+<echo> "white-envelope : 1st git repo" </echo>
+</project>
