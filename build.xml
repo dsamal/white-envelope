@@ -1,5 +1,7 @@
 <?xml version ="1.0"?>
 <project name ="white-envelope" default="compile">
+<target name = compile>
 <echo> "white-envelope : from 2nd git repo" </echo>
 <echo> "white-envelope : from 1st git repo" </echo>
+</target>
 </project>
